@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\bin\Debug\RecursoCompartido.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\bin\Debug\RecursoCompartido.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\bin\Debug\RecursoCompartido.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\obj\Debug\RecursoCompartido.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\obj\Debug\RecursoCompartido.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\obj\Debug\RecursoCompartido.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\SubProcesamiento(Threads)\RecursoCompartidoPattern\RecursoCompartido\obj\Debug\RecursoCompartido.pdb
